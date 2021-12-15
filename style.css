@@ -1,0 +1,37 @@
+* {
+    background: lightblue;
+}
+
+P {
+    margin-left: 600px;
+    font-size: 2rem;
+    font-family: cursive;
+    font-style: italic;
+    color: rgb(7, 35, 95);
+}
+
+#clear {
+    width: 175px;
+}
+
+.formstyle {
+    width: 300px;
+    height: 400px;
+    margin: auto;
+}
+
+input {
+    margin-top: 5px;
+    width: 55px;
+    border-radius: 5px;
+}
+
+.ans {
+    height: 20px;
+    width: 165px;
+    border-radius: 5px;
+}
+
+input:hover {
+    background-color: cadetblue;
+}
